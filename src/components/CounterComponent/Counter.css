@@ -1,0 +1,15 @@
+
+.counter{
+    background-color: blueviolet;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn, #counter{
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+    font-weight: bold;
+}
